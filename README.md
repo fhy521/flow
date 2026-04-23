@@ -17,6 +17,7 @@ See [our website](https://flow-project.github.io/) for more information on the a
 - [Documentation](https://flow.readthedocs.org/en/latest/)
 - [Installation instructions](http://flow.readthedocs.io/en/latest/flow_setup.html)
 - [Tutorials](https://github.com/flow-project/flow/tree/master/tutorials)
+- [Related SUMO and RL repositories for Task23](docs/related_rl_sumo_repositories.md)
 - [Binder Build (beta)](https://mybinder.org/v2/gh/flow-project/flow/binder)
 
 # Technical questions
@@ -34,7 +35,7 @@ We welcome your contributions.
 
 If you use Flow for academic research, you are highly encouraged to cite our paper:
 
-C. Wu, A. Kreidieh, K. Parvate, E. Vinitsky, A. Bayen, "Flow: Architecture and Benchmarking for Reinforcement Learning in Traffic Control," CoRR, vol. abs/1710.05465, 2017. [Online]. Available: https://arxiv.org/abs/1710.05465
+C. Wu, A. Kreidieh, A. K. Parvate, E. Vinitsky, A. Bayen, "Flow: Architecture and Benchmarking for Reinforcement Learning in Traffic Control," CoRR, vol. abs/1710.05465, 2017. [Online]. Available: https://arxiv.org/abs/1710.05465
 
 If you use the benchmarks, you are highly encouraged to cite our paper:
 
